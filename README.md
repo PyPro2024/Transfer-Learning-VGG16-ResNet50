@@ -1,4 +1,4 @@
-# Transfer Learning: VGG16 vs. ResNet50
+# Transfer Learning: VGG16 vs ResNet50
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-Applications-red?style=flat&logo=keras)
